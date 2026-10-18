@@ -23,6 +23,18 @@ The goal of this design was to simplify nursing operations such as patient manag
 - UI/UX design thinking  
 - Hand-drawn interface planning  
 
+## Project Presentation & Recognition
+
+This section documents the presentation of my Nursing Software UI Design concept and the recognition received during the project showcase.
+
+Project Presentation
+
+"Nursing Software Project Presentation" (Presentation.jpg)
+
+Award & Recognition
+
+"Nursing Software Project Award" (Award.jpg)
+
 ## Note
 This is a conceptual UI/UX project created for learning and competition purposes. It demonstrates design thinking and user-centered development approach.
 
